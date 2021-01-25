@@ -1,0 +1,6 @@
+https://community-open-weather-map.p.rapidapi.com/weather?q=London213
+x-rapidapi-key: d000e0974dmsh3108caa73223888p15f41cjsn73f645cc7261
+x-rapidapi-host: community-open-weather-map.p.rapidapi.com
+
+###
+api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=6ae49212f3406d65078fe9a6a3b93f87&units=metric
